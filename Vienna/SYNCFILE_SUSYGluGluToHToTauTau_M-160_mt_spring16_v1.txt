@@ -1,0 +1,9 @@
+/afs/cern.ch/user/j/jbrandst/public/Sync2016/SYNCFILE_SUSYGluGluToHToTauTau_M-160_mt_spring16_v1.root
+
+
+0624:
+First sync sample without trigger matching
+Lepton efficiencies, recoil corrections and btag corrections as in 2015
+MVAMET using mvamet/mvamet80, MVAMET2_beta_0.6/RecoMET/METPUSubtraction/data/weightfile.root from Raphael
+JEC with Spring16_25nsV3_MC, GT 80X_mcRun2_asymptotic_2016_miniAODv2
+
