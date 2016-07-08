@@ -1,5 +1,9 @@
-/afs/cern.ch/user/j/jbrandst/public/Sync2016/SYNCFILE_SUSYGluGluToHToTauTau_M-160_et_spring16_v1.root
+/afs/cern.ch/user/j/jbrandst/public/Sync2016/SYNCFILE_SUSYGluGluToHToTauTau_M-160_tt_spring16_v2.root
 
+0807:
+/afs/cern.ch/user/j/jbrandst/public/Sync2016/SYNCFILE_SUSYGluGluToHToTauTau_M-160_tt_spring16_v2.root
+Latest scale factors
+No btag corrections
 
 0624:
 First sync sample without trigger matching
