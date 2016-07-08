@@ -1,0 +1,9 @@
+location: /afs/cern.ch/work/a/adewit/public/syncNtuples/sync-300616/SYNCFILE_SUSYGluGluToHToTauTau_M-160_mt_spring16.root
+
+[30/06/2016]
+First version with:
+- New MVA Met
+- PU weights
+- Latest e/mu SF's
+- Muon isolation cone size 0.4
+- Muon pT cut > 21 GeV

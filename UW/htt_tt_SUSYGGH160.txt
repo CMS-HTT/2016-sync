@@ -1,0 +1,10 @@
+Sync Ntuple: /afs/cern.ch/work/t/truggles/public/HTT-2016-Sync/htt_tt_SUSYGGH160_20160628.root
+
+
+
+28 June 2016 : first commit
+ - 100% sync with Vienna on events and taus selected
+
+
+
+
