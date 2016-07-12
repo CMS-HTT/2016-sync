@@ -1,6 +1,10 @@
-/afs/cern.ch/user/j/jbrandst/public/Sync2016/SYNCFILE_SUSYGluGluToHToTauTau_M-160_mt_spring16_v2.root
+/afs/cern.ch/user/j/jbrandst/public/Sync2016/SYNCFILE_SUSYGluGluToHToTauTau_M-160_mt_spring16_v3.root
 
-0807:
+0712:
+new isolation cone size R=0.4
+muon pt > 21
+
+0708:
 /afs/cern.ch/user/j/jbrandst/public/Sync2016/SYNCFILE_SUSYGluGluToHToTauTau_M-160_mt_spring16_v2.root
 Latest scale factors
 No btag corrections
