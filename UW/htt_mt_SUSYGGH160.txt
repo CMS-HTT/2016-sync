@@ -1,0 +1,9 @@
+/afs/cern.ch/user/l/ldodd/public/2016-sync/2016-0-713/htt_mt_SUSYGGH160_miniAODv1.root
+
+
+[07-13]
+first pass at sync ntuple
+-ICHEP ID Used
+-MVAMET included
+-2015 isolation definition used
+
