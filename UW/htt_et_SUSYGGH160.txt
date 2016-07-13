@@ -1,0 +1,9 @@
+/afs/cern.ch/user/l/ldodd/public/2016-sync/2016-0-713/htt_et_SUSYGGH160_miniAODv1.root
+
+
+[07/13]
+-MVAMET included
+-CSV's included 
+-first sync ntuple pass
+-ICHEP medium muon used for vetos
+
