@@ -1,5 +1,12 @@
-/afs/cern.ch/user/l/ldodd/public/2016-sync/2016-0-713/htt_et_SUSYGGH160_miniAODv1.root
+/afs/cern.ch/user/l/ldodd/public/2016-sync/2016-0-7-14/htt_et_SUSYGGH160_miniAODv1.root
 
+
+[07-14]
+-Promote-Demote MEthod removed from nbtags
+-switched to puweights from twiki
+-added isPrompt to genvis pt calculation
+-added variables
+-iso03 for muon used in extra veto
 
 [07/13]
 -MVAMET included
