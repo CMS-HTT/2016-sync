@@ -1,5 +1,13 @@
-/afs/cern.ch/user/l/ldodd/public/2016-sync/2016-0-713/htt_mt_SUSYGGH160_miniAODv1.root
+/afs/cern.ch/user/l/ldodd/public/2016-sync/2016-0-7-14/htt_mt_SUSYGGH160_miniAODv1.root
 
+
+[07-14]
+second pass at sync ntuple
+-pt_1>21
+-ICHEP ID used
+-switched to Iso04 for muon
+-switched to twiki pu weighting
+-removed promote-demote from nbtags
 
 [07-13]
 first pass at sync ntuple
