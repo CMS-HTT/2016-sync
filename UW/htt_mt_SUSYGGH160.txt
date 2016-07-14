@@ -1,5 +1,8 @@
 /afs/cern.ch/user/l/ldodd/public/2016-sync/2016-0-7-14/htt_mt_SUSYGGH160_miniAODv1.root
 
+[07-14]
+Updating gen-matching
+note:mt_1 includes mvamet
 
 [07-14]
 second pass at sync ntuple
