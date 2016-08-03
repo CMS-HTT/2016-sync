@@ -1,4 +1,14 @@
-location: /afs/cern.ch/work/a/adewit/public/syncNtuples/sync-300616/SYNCFILE_SUSYGluGluToHToTauTau_M-160_et_spring16.root
+location: /afs/cern.ch/user/r/rlane/public/HttSync030816/SYNCFILE_SUSYGluGluToHToTauTau_M-160_2016_et_0.root
+
+[03/08/2016]
+This MSSM-relevant version now includes (in addition to the things listed below):
+- Electron pT cut of 26, tau pT cut of 30 GeV
+- New PU weights for 69.2mb cross-section
+- Tracking ID scale factors for electrons
+- Trigger efficiencies measured in full dataset (and bins of electron isolation)
+  from Andrew (Ele25eta2p1WPTight trigger) from workspace file version 3
+- ID/iso scale factors measured in full dataset (and bins of electron isolation)
+  from Andrew from workspace file version 3
 
 [30/06/2016]
 First version with:

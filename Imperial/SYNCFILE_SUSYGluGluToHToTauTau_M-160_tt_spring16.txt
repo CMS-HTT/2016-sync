@@ -1,4 +1,11 @@
-location: /afs/cern.ch/work/a/adewit/public/syncNtuples/sync-300616/SYNCFILE_SUSYGluGluToHToTauTau_M-160_tt_spring16.root
+location: /afs/cern.ch/user/r/rlane/public/HttSync030816/SYNCFILE_SUSYGluGluToHToTauTau_M-160_2016_tt_0.root
+
+[03/08/2016]
+This MSSM-relevant version now includes (in addition to the things listed below):
+- tau pT cut of 40 GeV
+- New PU weights for 69.2mb cross-section
+- Trigger efficiencies measured in full dataset from Riccardo (using Tight WP
+  and separate weights for real and fake taus based on gen status flags) from workspace file version 3
 
 [30/06/2016]
 First version with:
