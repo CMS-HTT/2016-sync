@@ -1,0 +1,14 @@
+location: /afs/cern.ch/work/r/rcaspart/public/HTTSync2016/20160803/SUSYGluGluToHToTauTauM160_mt_RunIISpring15MiniAODv2_13TeV_MINIAOD.root
+Using trigger efficiencies for IsoMu22
+
+location: /afs/cern.ch/work/r/rcaspart/public/HTTSync2016/20160803/SUSYGluGluToHToTauTauM160_mt_RunIISpring15MiniAODv2_13TeV_MINIAOD_IsoMu22ORIsoTkMu22.root
+Using trigger efficiency for or of IsoMu22 and IsoTkMu22
+
+[2016-08-03]
+This version include
+* Muon pT cut of 23, tau pT cut of 30 GeV
+* Trigger efficiencies measured in full dataset in dependence of the muon isolation (from Andrew's workspace v3)
+* ID/iso scale factors measured in full dataset in dependence of the muon isolation (from Andrew's workspace v3)
+
+Known differences:
+* mvamet was produced with wrong weights

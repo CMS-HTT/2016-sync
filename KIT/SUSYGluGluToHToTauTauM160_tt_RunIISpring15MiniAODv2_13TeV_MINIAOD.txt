@@ -1,0 +1,10 @@
+location: /afs/cern.ch/work/r/rcaspart/public/HTTSync2016/20160803/SUSYGluGluToHToTauTauM160_tt_RunIISpring15MiniAODv2_13TeV_MINIAOD.root
+
+[2016-08-03]
+This version include
+* tau pT cut of 40 GeV
+* Trigger efficiencies measured in full dataset from Riccardo (TightWP, from Andrew's workspace v3)
+  for taus with gen_match != 5 the trigger efficiencies for fake taus is applied
+
+Known differences:
+* mvamet was produced with wrong weights
