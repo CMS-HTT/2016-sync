@@ -1,0 +1,11 @@
+location: /afs/cern.ch/work/r/rcaspart/public/HTTSync2016/20160818/SUSYGluGluToHToTauTauM160_mt_RunIISpring16MiniAODv1_13TeV_MINIAOD.root
+
+[2016-08-18]
+New verison with fix for mvamet
+using the or of IsoMu22 and IsoTkMu22
+
+[2016-08-03]
+This version include
+* Muon pT cut of 23, tau pT cut of 30 GeV
+* Trigger efficiencies measured in full dataset in dependence of the muon isolation (from Andrew's workspace v3)
+* ID/iso scale factors measured in full dataset in dependence of the muon isolation (from Andrew's workspace v3)

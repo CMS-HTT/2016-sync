@@ -1,0 +1,7 @@
+location: /afs/cern.ch/work/r/rcaspart/public/HTTSync2016/20160818/SUSYGluGluToHToTauTauM160_em_RunIISpring16MiniAODv2_13TeV_MINIAOD.root
+
+[2016-08-18]
+First version for miniAODv2 reHLT sample
+This version includes
+* tau pT cut of 40 GeV
+* Trigger efficiencies and id/iso scale factors measured by DESY group

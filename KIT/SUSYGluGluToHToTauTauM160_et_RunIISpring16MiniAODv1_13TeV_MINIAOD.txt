@@ -1,11 +1,10 @@
-location: /afs/cern.ch/work/r/rcaspart/public/HTTSync2016/20160803/SUSYGluGluToHToTauTauM160_et_RunIISpring15MiniAODv2_13TeV_MINIAOD.root
+location: /afs/cern.ch/work/r/rcaspart/public/HTTSync2016/20160818/SUSYGluGluToHToTauTauM160_et_RunIISpring16MiniAODv1_13TeV_MINIAOD.root
 
+[2016-08-18]
+New verison with fix for mvamet
 
 [2016-08-03]
 This version include
 * electron pT cut of 26, tau pT cut of 30 GeV
 * Trigger efficiencies measured in full dataset in dependence of the electron isolation (from Andrew's workspace v3)
 * ID/iso scale factors measured in full dataset in dependence of the electron isolation (from Andrew's workspace v3)
-
-Known differences:
-* mvamet was produced with wrong weights
