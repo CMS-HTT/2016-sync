@@ -1,4 +1,7 @@
-location: /afs/cern.ch/user/r/rlane/public/HttSync030816/SYNCFILE_SUSYGluGluToHToTauTau_M-160_2016_et_0.root
+location: /afs/cern.ch/user/r/rlane/public/HttSync180816/SYNCFILE_SUSYGluGluToHToTauTau_M-160_2016_et_0.root
+
+[18/08/2016]
+- Moving to reHLT signal sample
 
 [03/08/2016]
 This MSSM-relevant version now includes (in addition to the things listed below):

@@ -1,0 +1,9 @@
+location: /afs/cern.ch/user/r/rlane/public/HttSync180816/SYNCFILE_SUSYGluGluToHToTauTau_M-160_2016_em_0.root
+
+[18/08/2016]
+First shot at em channel:
+- New MVA MET
+- PU weights for 69.2mb cross-section
+- ID/iso and trigger efficiencies from DESY, need updating to latest ones
+- Muon isolation cone size 0.4
+
