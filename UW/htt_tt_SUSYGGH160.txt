@@ -1,6 +1,13 @@
-Sync Ntuple: /afs/cern.ch/work/t/truggles/public/HTT-2016-Sync/htt_tt_SUSYGGH160_20160628.root
+Sync Ntuple: 
+reHLT new - /afs/cern.ch/work/t/truggles/public/HTT-2016-Sync/htt_tt_SUSYGGH160_20160826.root
+old - /afs/cern.ch/work/t/truggles/public/HTT-2016-Sync/htt_tt_SUSYGGH160_20160628.root
 
 
+26 Aug 2016 :
+ - ~100% sync on all except mvamet based vars, rho, 
+ - gen_match updated to 99.98% synce on event by event values
+ - reHLT sample
+ - Using 12.9/fb PU template
 
 28 June 2016 : first commit
  - 100% sync with Vienna on events and taus selected
