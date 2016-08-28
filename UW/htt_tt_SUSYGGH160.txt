@@ -1,7 +1,10 @@
 Sync Ntuple: 
-reHLT new - /afs/cern.ch/work/t/truggles/public/HTT-2016-Sync/htt_tt_SUSYGGH160_20160826.root
+reHLT new - /afs/cern.ch/work/t/truggles/public/HTT-2016-Sync/htt_tt_SUSYGGH160_20160828.root
 old - /afs/cern.ch/work/t/truggles/public/HTT-2016-Sync/htt_tt_SUSYGGH160_20160628.root
 
+
+28 Aug 2016 :
+ - Added synced mvamet base vars
 
 26 Aug 2016 :
  - ~100% sync on all except mvamet based vars, rho, 
