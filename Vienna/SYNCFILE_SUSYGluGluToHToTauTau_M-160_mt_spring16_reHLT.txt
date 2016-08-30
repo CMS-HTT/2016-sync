@@ -1,0 +1,9 @@
+/afs/cern.ch/user/m/mspanrin/public/sync2016/SYNCFILE_SUSYGluGluToHToTauTau_M-160_mt_spring16_reHLT_v4.root
+
+0830:
+/afs/cern.ch/user/m/mspanrin/public/sync2016/SYNCFILE_SUSYGluGluToHToTauTau_M-160_mt_spring16_reHLT_v4.root
+first reHLT sample
+
+muon pT cut of 23, tau pT cut of 30 GeV
+trigger efficiencies from Andrew's workspace v3
+id/iso scale factors from Andrew's workspace v3
