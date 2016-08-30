@@ -1,0 +1,4 @@
+/afs/cern.ch/user/y/ytakahas/public/forHTT/Myroot_eletau_sync2016.root
+
+# First trial : Aug 30 2016
+
