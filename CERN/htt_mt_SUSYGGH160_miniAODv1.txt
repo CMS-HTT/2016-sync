@@ -1,3 +1,4 @@
-/afs/cern.ch/user/s/steggema/public/Sync/dummy.root
+/afs/cern.ch/user/s/steggema/public/Sync2016/mt.root
 
-# Example for sync file
+# v1 sync file, using IsoMu22-only weights
+# with pT thresholds of 30 for tauh and 23 for muon
