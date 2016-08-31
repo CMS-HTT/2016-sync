@@ -1,0 +1,15 @@
+This tree has 2 directory for the mutau and etau channel for the 2016 sync exercice:
+https://twiki.cern.ch/twiki/bin/viewauth/CMS/HiggsToTauTauWorking2016#Synchronisation
+
+/afs/cern.ch/user/c/calpas/www/2016-sync/SUSYGluGluToHToTauTau_M160.root
+
+still missing:
+- no trigger applied as no evts pass the trigger paths listed at the wiki.
+- all variables with MVA met (not available) and PUPPIMET (I'll use pfmet for my analysis).
+- byIsolationMVA3xxxDMxxxLTraw (do not exist).
+- trigger, id, iso, pu weight
+- VBF and bjets variables (no need for my analysis)
+- extra lepton veto
+- NPU
+- jpfid, jpuid, jcsv
+- pt_sv,  eta_sv,  phi_sv,  met_sv
