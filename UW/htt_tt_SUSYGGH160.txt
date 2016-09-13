@@ -1,7 +1,12 @@
 Sync Ntuple: 
+newest - /afs/cern.ch/work/t/truggles/public/HTT-2016-Sync/htt_tt_SUSYGGH160_20160913.root
 reHLT new - /afs/cern.ch/work/t/truggles/public/HTT-2016-Sync/htt_tt_SUSYGGH160_20160828.root
 old - /afs/cern.ch/work/t/truggles/public/HTT-2016-Sync/htt_tt_SUSYGGH160_20160628.root
 
+
+13 Sept 2016 :
+ - Added svFit variables using mvamet
+ - Added pf Met Cov Matrix
 
 28 Aug 2016 :
  - Added synced mvamet base vars
