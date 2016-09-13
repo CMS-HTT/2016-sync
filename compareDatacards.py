@@ -38,8 +38,10 @@ def findHists(f, d):
         hist = tdir.Get(key.GetName())
         if isinstance(hist, ROOT.TH1F):
             hist_names.append(key.GetName())
+        elif isinstance(hist, ROOT.TH1D):
+            hist_names.append(key.GetName())
     if len(hist_names) == 0:
-        print 'Failed to find a TDirectory in file', f
+        print 'Failed to find a TH1 in file', f
     return hist_names
 
 def applyHistStyle(h, i):
