@@ -1,3 +1,4 @@
-/afs/cern.ch/user/s/steggema/public/Sync2016/mt.root
+/afs/cern.ch/user/s/steggema/public/Sync2016/mt_v2.root
 
-# Non-trigger sample
+# Re-HLT sample (but not requiring trigger)
+# Using as muon weights DESY IsoMu22 and DESY ID/ISO 015

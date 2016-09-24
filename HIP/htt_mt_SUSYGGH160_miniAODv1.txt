@@ -1,0 +1,5 @@
+/afs/cern.ch/user/j/jheikkil/public/H2TauTauSync/mt_v1.root
+
+16 Oct: First trial. Require p_tau > 30 GeV and p_mu > 23 GeV. 
+
+

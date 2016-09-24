@@ -1,0 +1,4 @@
+/afs/cern.ch/user/s/steggema/public/Sync2016/et_v2.root
+
+# Re-HLT sample (but not requiring trigger)
+# Using as muon weights DESY Ele25 and DESY ID/ISO 01

@@ -1,0 +1,7 @@
+Latest : 
+/afs/cern.ch/user/y/ytakahas/public/forHTT/Myroot_eletau_sync2016_MiniAODv2_20160916.root 
+
+Added more variables
+
+# First trial : 6 Sep 2016
+/afs/cern.ch/user/y/ytakahas/public/forHTT/Myroot_eletau_sync2016_MiniAODv2.root

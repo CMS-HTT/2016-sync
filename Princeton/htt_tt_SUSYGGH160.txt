@@ -1,0 +1,3 @@
+Re-HLT sample: /afs/cern.ch/user/o/ojalvo/public/syncntuple/htt_tt_SUSYGGH160_20160923.root
+
+first version: /afs/cern.ch/user/o/ojalvo/public/syncntuple/htt_tt_SUSYGGH160_20160915.root

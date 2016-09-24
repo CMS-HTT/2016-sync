@@ -1,4 +1,4 @@
-/afs/cern.ch/user/y/ytakahas/public/forHTT/Myroot_mutau_sync2016.root 
+/afs/cern.ch/user/y/ytakahas/public/forHTT/Myroot_mutau_sync2016_MiniAODv1.root
 
+# Modified dz, d0 calculation w.r.t first primary vertex
 # First trial : Aug 29 2016
-
