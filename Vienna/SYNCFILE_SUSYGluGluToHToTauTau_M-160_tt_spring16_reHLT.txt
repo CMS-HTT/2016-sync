@@ -1,8 +1,0 @@
-/afs/cern.ch/user/m/mspanrin/public/sync2016/SYNCFILE_SUSYGluGluToHToTauTau_M-160_tt_spring16_reHLT_v4.root
-
-0830:
-/afs/cern.ch/user/m/mspanrin/public/sync2016/SYNCFILE_SUSYGluGluToHToTauTau_M-160_tt_spring16_reHLT_v4.root
-first reHLT sample
-
-trigger efficiencies from Andrew's workspace v3
-id/iso scale factors from Andrew's workspace v3
