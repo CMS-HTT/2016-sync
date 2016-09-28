@@ -1,0 +1,11 @@
+
+
+Current Sync Ntuple: /afs/cern.ch/work/t/truggles/public/HTT-2016-Sync/SM-HTT-VBF125_tt_20160928.root
+
+
+Sept 28, 2016:
+ - First Standard Model sync ntuple: /afs/cern.ch/work/t/truggles/public/HTT-2016-Sync/SM-HTT-VBF125_tt_20160928.root
+ - Cuts are based off of HTT 2016 Working Twiki
+ - Using VBF 125 reHLT sample
+
+
