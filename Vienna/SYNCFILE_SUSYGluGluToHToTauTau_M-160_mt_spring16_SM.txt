@@ -1,0 +1,8 @@
+/afs/cern.ch/user/m/mspanrin/public/sync2016/SYNCFILE_SUSYGluGluToHToTauTau_M-160_mt_spring16_v4_SM.root
+
+0926:
+/afs/cern.ch/user/m/mspanrin/public/sync2016/SYNCFILE_SUSYGluGluToHToTauTau_M-160_mt_spring16_v4_SM.root
+Using Baseline from Twiki
+trigger efficiencies from Andrew's workspace v3
+id/iso scale factors from Andrew's workspace v3
+Using puweights from Data_Pileup_2016_271036-276811_13TeVSpring16_PromptReco_69p2mbMinBiasXS.root

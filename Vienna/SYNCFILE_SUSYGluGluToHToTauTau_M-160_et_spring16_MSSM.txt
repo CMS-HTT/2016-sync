@@ -1,14 +1,14 @@
-/afs/cern.ch/user/m/mspanrin/public/sync2016/SYNCFILE_SUSYGluGluToHToTauTau_M-160_tt_spring16_v4.root
+/afs/cern.ch/user/m/mspanrin/public/sync2016/SYNCFILE_SUSYGluGluToHToTauTau_M-160_et_spring16_v4_MSSM.root
 
 0830:
-/afs/cern.ch/user/m/mspanrin/public/sync2016/SYNCFILE_SUSYGluGluToHToTauTau_M-160_tt_spring16_v4.root
+/afs/cern.ch/user/m/mspanrin/public/sync2016/SYNCFILE_SUSYGluGluToHToTauTau_M-160_et_spring16_v4_MSSM.root
 fix for mvamet
+electron pT cut of 26, tau pT cut of 30 GeV
 trigger efficiencies from Andrew's workspace v3
 id/iso scale factors from Andrew's workspace v3
 
-
 0807:
-/afs/cern.ch/user/j/jbrandst/public/Sync2016/SYNCFILE_SUSYGluGluToHToTauTau_M-160_tt_spring16_v2.root
+/afs/cern.ch/user/j/jbrandst/public/Sync2016/SYNCFILE_SUSYGluGluToHToTauTau_M-160_et_spring16_v2.root
 Latest scale factors
 No btag corrections
 

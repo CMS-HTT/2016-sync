@@ -1,0 +1,6 @@
+/afs/cern.ch/user/s/steggema/public/Sync2016/mt_sm_v2.root
+
+# Re-HLT sample (but not requiring trigger)
+# Includes SVFit (MSSM tag)
+# Using as muon weights DESY IsoMu22 and DESY ID/ISO 015
+# Using self-derived pileup weights
