@@ -1,11 +1,15 @@
+- SM cuts
+
 - This tree has 4 directory for mt et tt and em:
-/afs/cern.ch/user/c/calpas/www/2016-sync/SUSYGluGluToHToTauTau_M160.root
+/afs/cern.ch/user/c/calpas/www/2016-sync/SUSYGluGluToHToTauTauM160.root
 
 - made with /SUSYGluGluToHToTauTau_M-160_TuneCUETP8M1_13TeV-pythia8/RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM 
 
-- This is synchronised with cern on mt, et, tt.
-
-- It has high MSSM pt cut on the lepton which depend on the channel.
+1) I checked my numbers for LIP, CERN, UZH and VIENNA and I found:
+mt: LIP = CERN = UZH = VIENNA
+et: LIP = VIENNA != UZH
+tt: LIP = VIENNA
+em: LIP = ...( I do not have anyone yet to cross check with...)
 
 - no trigger applied.
 
