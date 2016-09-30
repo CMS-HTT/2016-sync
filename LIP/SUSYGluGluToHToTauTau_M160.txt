@@ -1,6 +1,11 @@
 - SM cuts
 
 - This trees has 4 directory for mt et tt and em:
+http://calpas.web.cern.ch/calpas/2016-sync/SUSYGluGluToHToTauTauM160.root
+http://calpas.web.cern.ch/calpas/2016-sync/GluGluHToTauTauM125.root
+http://calpas.web.cern.ch/calpas/2016-sync/VBFHToTauTauM125.root 12 
+
+// same then above but you may get a 'permission denied'!!
 /afs/cern.ch/user/c/calpas/www/2016-sync/SUSYGluGluToHToTauTauM160.root
 /afs/cern.ch/user/c/calpas/www/2016-sync/GluGluHToTauTauM125.root
 /afs/cern.ch/user/c/calpas/www/2016-sync/VBFHToTauTauM125.root
