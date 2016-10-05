@@ -1,0 +1,8 @@
+location: /afs/cern.ch/user/l/ldodd/public/2016-sync/htt_UW_et_vbf_laura.root
+
+
+VBF sample used:
+- Svfit and recoil corrections to be added when computing finishes. 
+- Jet Pf ID updated today, needs to be checked. (VBF variables synced with cecile before change)
+- No trigger required at seleciton level. lTrigger contains trigger pass info for the lepton
+- Sorting by isolaiton
