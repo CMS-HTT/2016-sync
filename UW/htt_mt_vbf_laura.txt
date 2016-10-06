@@ -1,4 +1,4 @@
-location: /afs/cern.ch/user/l/ldodd/public/2016-sync/htt_UW_et_vbf_laura.root
+location: /afs/cern.ch/user/l/ldodd/public/2016-sync/htt_UW_mt_vbf_laura.root
 
 
 VBF sample used:
