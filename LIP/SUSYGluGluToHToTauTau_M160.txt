@@ -1,11 +1,6 @@
 - SM cuts
 
 - This trees has 4 directory for mt et tt and em:
-http://calpas.web.cern.ch/calpas/2016-sync/SUSYGluGluToHToTauTauM160.root
-http://calpas.web.cern.ch/calpas/2016-sync/GluGluHToTauTauM125.root
-http://calpas.web.cern.ch/calpas/2016-sync/VBFHToTauTauM125.root 12 
-
-// same then above but you may get a 'permission denied'!!
 /afs/cern.ch/user/c/calpas/www/2016-sync/SUSYGluGluToHToTauTauM160.root
 /afs/cern.ch/user/c/calpas/www/2016-sync/GluGluHToTauTauM125.root
 /afs/cern.ch/user/c/calpas/www/2016-sync/VBFHToTauTauM125.root
@@ -16,10 +11,10 @@ http://calpas.web.cern.ch/calpas/2016-sync/VBFHToTauTauM125.root 12
 /VBFHToTauTau_M125_13TeV_powheg_pythia8/RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM
 
 1) I checked my numbers on (USYGluGluToHToTauTauM160.root) for LIP, CERN, UZH and VIENNA and I found:
-mt: LIP = CERN = UZH = VIENNA
-et: LIP = VIENNA != UZH
-tt: LIP = VIENNA
-em: LIP = ...( I do not have anyone yet to cross check with...)
+mt: LIP = CERN = UZH = VIENNA ...
+et: LIP = VIENNA = UZH ...
+tt: LIP = VIENNA ...
+em: LIP = DESY = ? KIT
 
 - no trigger applied.
 
