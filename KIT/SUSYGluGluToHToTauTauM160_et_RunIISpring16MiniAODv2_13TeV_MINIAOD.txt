@@ -1,7 +1,9 @@
-location: /afs/cern.ch/work/r/rcaspart/public/HTTSync2016/20160818/SUSYGluGluToHToTauTauM160_et_RunIISpring16MiniAODv2_13TeV_MINIAOD.root
-
+[2016-10-02]
+location: /afs/cern.ch/user/r/rfriese/public/HTTSync2016/2016-10-02/SUSYGluGluToHToTauTauM160_et_RunIISpring16MiniAODv2_13TeV_MINIAOD.root
+* adjusted pt cuts to sync
 
 [2016-08-18]
+location: /afs/cern.ch/work/r/rcaspart/public/HTTSync2016/20160818/SUSYGluGluToHToTauTauM160_et_RunIISpring16MiniAODv2_13TeV_MINIAOD.root
 First version based on 160 GeV miniAODv2 reHLT sample.
 This version includes
 * electron pT cut of 26, tau pT cut of 30 GeV

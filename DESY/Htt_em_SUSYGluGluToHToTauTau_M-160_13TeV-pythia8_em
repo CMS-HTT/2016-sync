@@ -1,0 +1,7 @@
+Synch ntuple in the emu channel. SUSY ggH(160) sample.
+/afs/cern.ch/user/r/rasp/public/Sync-2016/SUSYGluGluToHToTauTau_M-160_13TeV-pythia8_em.root
+
+3/10/2016
+- lepton Id and trigger efficiency scale factors are applied
+- Z recoil corrections applied. The recoil-corrected pf (mva) met is saved
+  in variables met (mvamet)

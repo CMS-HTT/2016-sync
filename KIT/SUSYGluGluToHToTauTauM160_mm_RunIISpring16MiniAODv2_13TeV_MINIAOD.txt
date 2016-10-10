@@ -1,0 +1,4 @@
+[2016-10-02]
+location: /afs/cern.ch/user/r/rfriese/public/HTTSync2016/2016-10-02/SUSYGluGluToHToTauTauM160_mm_RunIISpring16MiniAODv2_13TeV_MINIAOD.root
+
+mm channel, not yet documented on Twiki

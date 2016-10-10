@@ -1,11 +1,12 @@
-/afs/cern.ch/user/t/telenz/public/Htt_mt_SUSYGluGluToH_M-160_reHLT_SM_v2.root
+/afs/cern.ch/user/t/telenz/public/Htt_et_SUSYGluGluToH_M-160_reHLT_SM.root
 
 # Standard Model sample
-# Baseline selection from twiki applied (https://twiki.cern.ch/twiki/bin/view/CMS/HiggsToTauTauWorking2016#Baseline_Selection)
+# Baseline selection from twiki applied https://twiki.cern.ch/twiki/bin/viewauth/CMS/HiggsToTauTauWorking2016#Baseline_e_tau_h
 # Re-HLT sample (no trigger requirement)
 # Pile-up files privately produced (https://github.com/DesyTau/DesyTauAnalysesRun2_25ns/tree/master/NTupleMaker/data/PileUpDistrib/pileUp_data_Cert_271036-276811_13TeV_PromptReco_Collisions16_xsec69p2mb.root and https://github.com/DesyTau/DesyTauAnalysesRun2_25ns/tree/master/NTupleMaker/data/PileUpDistrib/MC_Spring16_PU.root) 
 # Iso/Id scale factors from DESY (Muon_IdIso0p15_eff.root)
 # Trigger eff weights from DESY (Muon_IsoMu22_eff.root)
 # no SFFit variable included
+# no b-jet variables included
 # Jet energy corrections: Spring16_25nsV6
-# Global tag: 80X_mcRun2_asymptotic_2016_miniAODv2_v1
+# Jet ID from https://twiki.cern.ch/twiki/bin/view/CMS/JetID#Recommendations_for_13_TeV_data
