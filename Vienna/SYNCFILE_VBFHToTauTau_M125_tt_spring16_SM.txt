@@ -1,0 +1,10 @@
+/afs/cern.ch/user/m/mspanrin/public/sync2016/SYNCFILE_VBFHToTauTau_M125_tt_spring16_v1_SM.root
+
+0926:
+/afs/cern.ch/user/m/mspanrin/public/sync2016/SYNCFILE_VBFHToTauTau_M125_tt_spring16_v1_SM.root
+trigger efficiencies from Andrew's workspace v3
+id/iso scale factors from Andrew's workspace v3
+Using puweights from Data_Pileup_2016_271036-276811_13TeVSpring16_PromptReco_69p2mbMinBiasXS.root
+
+
+
