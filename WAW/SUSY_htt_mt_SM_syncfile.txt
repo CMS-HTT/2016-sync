@@ -1,9 +1,4 @@
-/afs/cern.ch/user/a/apyskir/public/synch2016/WAW_syncTree_mt_SM.root
+/afs/cern.ch/user/a/apyskir/public/synch2016/WAW_SUSY_syncTree_mt_SM.root
 
 # mt SM baseline selection according to twiki
 # not all branches are properly filled -> will be updated
-
-
-v2: with mvamet fixed   [2016-10-05]
-
-/afs/cern.ch/user/a/apyskir/public/synch2016/WAW_SUSY_syncTree_mt_SM.root
