@@ -1,0 +1,11 @@
+/afs/cern.ch/user/t/telenz/public/sync2016/Htt_mt_VBF_SM_sync_v1.root
+
+# Standard Model selection (with pt_mu>23 and abs(eta_mu)<2.4)
+# Baseline selection applied from : https://twiki.cern.ch/twiki/bin/view/CMS/HiggsToTauTauWorking2016#Spring_16
+# Re-HLT sample (no trigger requirement)
+# Pile-up files privately produced (https://github.com/DesyTau/DesyTauAnalysesRun2_25ns/tree/master/NTupleMaker/data/PileUpDistrib/pileUp_data_Cert_271036-276811_13TeV_PromptReco_Collisions16_xsec69p2mb.root and https://github.com/DesyTau/DesyTauAnalysesRun2_25ns/tree/master/NTupleMaker/data/PileUpDistrib/MC_Spring16_PU.root) 
+# Iso/Id scale factors from DESY (Muon_IdIso0p15_eff.root)
+# Trigger eff weights from DESY (Muon_IsoMu22_OR_TkIsoMu22_eff_fineBinning.root)
+# no SFFit variables included
+# b-jet scaling applied
+# new JetId recommendation from https://twiki.cern.ch/twiki/bin/viewauth/CMS/JetID#Recommendations_for_13_TeV_data
