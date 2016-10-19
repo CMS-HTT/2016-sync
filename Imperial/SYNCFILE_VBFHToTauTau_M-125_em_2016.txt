@@ -1,0 +1,15 @@
+location: /afs/cern.ch/user/d/dwinterb/public/2016-sync/SYNCFILE_VBFHToTauTau_M-125_em_2016.root
+
+[18/10/2016]
+First version with SM cuts, MET filters applied:
+elec pt  = 13
+elec eta = 2.5
+muon pt  = 10
+muon eta = 2.4
+jet pt   = 20
+jet eta  = 4.7
+Trigger: HLT_Mu8_TrkIsoVVL_Ele23_CaloIdL_TrackIdL_IsoVL_v OR HLT_Mu23_TrkIsoVVL_Ele12_CaloIdL_TrackIdL_IsoVL_v 
+Trigger Weights: htt_scalefactors_v5.root - tracking, ID and iso SFs
+PU Weights: 69.2mb cross section for PU reweighting
+
+
