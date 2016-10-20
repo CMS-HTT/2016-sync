@@ -1,4 +1,7 @@
-location: /afs/cern.ch/user/d/dwinterb/public/2016-sync/SYNCFILE_VBFHToTauTau_M-125_em_2016.root
+location: /afs/cern.ch/user/d/dwinterb/public/2016-sync/Oct20/SYNCFILE_VBFHToTauTau_M-125_em_2016.root
+
+[20/10/2016]
+Adding b-tag reweighting and MET recoil corrections
 
 [18/10/2016]
 First version with SM cuts, MET filters applied:
