@@ -1,4 +1,4 @@
-location: /afs/cern.ch/user/d/dwinterb/public/2016-sync/Oct20/SYNCFILE_VBFHToTauTau_M-125_mt_2016.root
+/afs/cern.ch/user/d/dwinterb/public/2016-sync/Oct20/SYNCFILE_VBFHToTauTau_M-125_mt_2016.root
 
 [20/10/2016]
 Adding b-tag reweighting and MET recoil corrections
