@@ -1,6 +1,7 @@
-/afs/cern.ch/user/s/steggema/public/Sync2016/mt_sm_vbf_v1.root
+/afs/cern.ch/user/s/steggema/public/Sync2016/mt_sm_vbf_v2.root
 
 # Re-HLT sample (but not requiring trigger)
-# Includes b-tag weights and recoil corrections
-# Using as muon weights DESY IsoMu22 and DESY ID/ISO 015
+# Includes b-tag weight but this time no recoil corrections
+# PF MET from miniAOD
+# Using as muon weights DESY TkOrIsoMu22 and DESY ID/ISO 015
 # Using self-derived pileup weights
