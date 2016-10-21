@@ -1,4 +1,4 @@
-/afs/cern.ch/user/t/telenz/public/sync2016/Htt_mt_VBF_SM_sync_v1.root
+/afs/cern.ch/user/t/telenz/public/sync2016/Htt_mt_VBF_SM_sync_v2.root
 
 # Standard Model selection (with pt_mu>23 and abs(eta_mu)<2.4)
 # Baseline selection applied from : https://twiki.cern.ch/twiki/bin/view/CMS/HiggsToTauTauWorking2016#Spring_16
@@ -9,3 +9,4 @@
 # no SFFit variables included
 # b-jet scaling applied
 # new JetId recommendation from https://twiki.cern.ch/twiki/bin/viewauth/CMS/JetID#Recommendations_for_13_TeV_data
+# MET recoil corrections (quantile mapping) applied
