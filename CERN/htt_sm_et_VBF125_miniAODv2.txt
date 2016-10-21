@@ -1,6 +1,6 @@
-/afs/cern.ch/user/s/steggema/public/Sync2016/et_sm_vbf_v1.root
+/afs/cern.ch/user/s/steggema/public/Sync2016/et_sm_vbf_v2.root
 
-# Using b-tag weights; no recoil corrections
+# SM selection; using b-tag weights and recoil corrections
 # Re-HLT sample (but not requiring trigger)
 # Using as muon weights DESY Ele25 and DESY ID/ISO 01
 # Self-derived pileup weights
