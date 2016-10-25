@@ -1,4 +1,4 @@
-/afs/cern.ch/user/t/telenz/public/Htt_mt_SUSYGluGluToH_M-160_reHLT_SM_v3.root
+/afs/cern.ch/user/t/telenz/public/sync2016/Htt_mt_SUSYGluGluToH_M-160_reHLT_SM_v4.root
 
 # Standard Model selection
 # Baseline selection applied from : https://twiki.cern.ch/twiki/bin/view/CMS/HiggsToTauTauWorking2016#Spring_16
