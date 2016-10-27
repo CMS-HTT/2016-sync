@@ -1,0 +1,4 @@
+/afs/cern.ch/user/a/apyskir/public/synch2016/WAW_VBF_syncTree_mt_SM.root
+
+first version of sync file based on VBF sample
+muon cuts: pt > 23, |eta| < 2.4 according to TWiki
