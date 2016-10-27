@@ -1,4 +1,9 @@
-/afs/cern.ch/user/a/anehrkor/public/sync-2016/Htt_mm_VBFHToTauTauM125_v1.root
+/afs/cern.ch/user/a/anehrkor/public/sync-2016/Htt_mm_VBFHToTauTauM125_v2.root
+
+[27.10.2016]
+New recoil corrections applied
+gen_match_1/2 now with visible instead of full gen tau momentum
+dZ_1/2 for taus from leading packed candidate
 
 [25.10.2016]
 First version with CMSSW_8_0_20
