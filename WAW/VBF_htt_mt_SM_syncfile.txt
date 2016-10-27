@@ -1,4 +1,7 @@
-/afs/cern.ch/user/a/apyskir/public/synch2016/WAW_VBF_syncTree_mt_SM.root
+/afs/cern.ch/user/m/mbluj/public/synch2016/WAW_VBF_syncTree_mt_SM_v2.root
 
-first version of sync file based on VBF sample
-muon cuts: pt > 23, |eta| < 2.4 according to TWiki
+[27.10.2016]
+Synch file based on the VBF sample for the mt channel.
+* MVAMET with recoil corrections
+* Some differences seen for MET and MET related variables wrt CERN,
+  investigation ongoing
