@@ -6,6 +6,7 @@ Previous Sync Ntuple (CMSSW_8_0_14): /afs/cern.ch/work/t/truggles/public/HTT-201
 Oct 31, Halloween, 2016:
  - CMSSW_8_0_20 sample
  - shifts in NJets varialbes seen, MET, MVA MET Cov
+ - this is PRE Recoil correction and PRE svFit
 
 
 
