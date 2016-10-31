@@ -1,21 +1,23 @@
 - SM cuts
+1) to get the file, do 
+wget http://calpas.web.cern.ch/calpas/2016-sync/lip_mt_SUSYGluGluToHToTauTauM160.root
+wget http://calpas.web.cern.ch/calpas/2016-sync/lip_et_SUSYGluGluToHToTauTauM160.root
+wget http://calpas.web.cern.ch/calpas/2016-sync/lip_tt_SUSYGluGluToHToTauTauM160.root
+wget http://calpas.web.cern.ch/calpas/2016-sync/lip_em_SUSYGluGluToHToTauTauM160.root
+wget http://calpas.web.cern.ch/calpas/2016-sync/lip_mt_VBFHToTauTauM125.root 
+wget http://calpas.web.cern.ch/calpas/2016-sync/lip_et_VBFHToTauTauM125.root 
+wget http://calpas.web.cern.ch/calpas/2016-sync/lip_tt_VBFHToTauTauM125.root 
+wget http://calpas.web.cern.ch/calpas/2016-sync/lip_em_VBFHToTauTauM125.root 
 
-- This trees has 4 directory for mt et tt and em:
-http://calpas.web.cern.ch/calpas/2016-sync/SUSYGluGluToHToTauTauM160.root
-http://calpas.web.cern.ch/calpas/2016-sync/GluGluHToTauTauM125.root
-http://calpas.web.cern.ch/calpas/2016-sync/VBFHToTauTauM125.root 
-
-or get them here, but not sure you'll have right!!
-/afs/cern.ch/user/c/calpas/www/2016-sync/SUSYGluGluToHToTauTauM160.root
-/afs/cern.ch/user/c/calpas/www/2016-sync/GluGluHToTauTauM125.root
-/afs/cern.ch/user/c/calpas/www/2016-sync/VBFHToTauTauM125.root
+2) This trees has 4 directory for mt et tt and em:
+wget http://calpas.web.cern.ch/calpas/2016-sync/SUSYGluGluToHToTauTauM160.root
+wget http://calpas.web.cern.ch/calpas/2016-sync/VBFHToTauTauM125.root 
 
 - made with:
 /SUSYGluGluToHToTauTau_M-160_TuneCUETP8M1_13TeV-pythia8/RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM 
-/GluGluHToTauTau_M125_13TeV_powheg_pythia8/RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM 
 /VBFHToTauTau_M125_13TeV_powheg_pythia8/RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM
 
-1) I checked my numbers on (USYGluGluToHToTauTauM160.root) for LIP, CERN, UZH and VIENNA and I found:
+1) I checked my numbers on (SUSYGluGluToHToTauTauM160.root) for LIP, CERN, UZH and VIENNA and I found:
 mt: LIP = CERN = UZH = VIENNA ...
 et: LIP = VIENNA = UZH ...
 tt: LIP = VIENNA ...
@@ -30,6 +32,5 @@ still missing:
 - byIsolationMVA3xxxDMxxxLTraw (do not exist).
 - trigger, id, iso and pu weight
 - VBF and bjets variables (no need for my analysis)
-- extra lepton veto
 - NPU
 - jpfid, jpuid, jcsv
