@@ -1,0 +1,32 @@
+
+
+
+
+21 Oct 2016
+This is a where I am storing my data card root file based on the current HTT categorization + inclusive category:
+
+/afs/cern.ch/work/t/truggles/public/HTT-2016-Sync/htt_tt.inputs-sm-13TeV_svFitMass-5040Pt-TightIso-ICHEP-21Oct2016.root - 1D card
+/afs/cern.ch/work/t/truggles/public/HTT-2016-Sync/htt_tt.inputs-sm-13TeV_svFitMass2D-5040Pt-TightIso-ICHEP-21Oct2016.root - 2D card
+
+Included in 1D:
+- inclusive
+- 0jet
+- 1jet low
+- 1jet high
+- vbf low
+- vbf high
+
+Included in 2D:
+- 0jet
+- 1jet2D
+- 2jet2D
+(see twiki for binning)
+
+Shapes:
+Tau Energy Shifts +/- 3%
+DY Shape based off of the MSSM reweight file
+ttbar shape for top pt reweighting
+
+
+
+

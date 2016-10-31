@@ -1,0 +1,5 @@
+/afs/cern.ch/user/s/steggema/public/Sync2016/et_sm_v1.root
+
+# Using b-tag weights, no recoil corrections
+# Re-HLT sample (but not requiring trigger)
+# Using as electron weights DESY Ele25 and DESY ID/ISO 01

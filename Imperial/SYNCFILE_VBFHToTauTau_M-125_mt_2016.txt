@@ -1,0 +1,16 @@
+/afs/cern.ch/user/d/dwinterb/public/2016-sync/Oct20/SYNCFILE_VBFHToTauTau_M-125_mt_2016.root
+
+[20/10/2016]
+Adding b-tag reweighting and MET recoil corrections
+
+[18/10/2016]
+First version with SM cuts, MET filters applied:
+muon pt  = 23
+muon eta = 2.4
+tau pt   = 20
+tau eta  = 2.3
+jet pt   = 20
+jet eta  = 4.7
+Trigger: HLT_IsoMu22_v OR HLT_IsoTkMu22_v
+Trigger Weights: htt_scalefactors_v5.root - tracking, ID and iso SFs
+PU Weights: 69.2mb cross section for PU reweighting

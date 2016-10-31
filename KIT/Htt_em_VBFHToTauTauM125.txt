@@ -1,0 +1,10 @@
+/afs/cern.ch/user/a/anehrkor/public/sync-2016/Htt_em_VBFHToTauTauM125_v2.root
+
+[27.10.2016]
+First version with CMSSW_8_0_20
+Trigger weights: from CMS-HTT/LeptonEfficiencies - Electron_Ele12leg_eff.root, Electron_Ele23leg_eff.root, Muon_8leg_eff.root, Muon_23leg_eff.root
+Id & iso weights: htt_scalefactors_v5.root - e_idiso0p15_desy_ratio,m_idiso0p20_desy_ratio
+b-tag scale factors applied
+New recoil corrections applied
+gen_match_1/2 now with visible instead of full gen tau momentum
+dZ_1/2 for taus from leading packed candidate

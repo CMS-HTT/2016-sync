@@ -1,6 +1,6 @@
-/afs/cern.ch/user/t/telenz/public/sync2016/Htt_et_SUSYGluGluToH_M-160_reHLT_SM_v4.root
+/afs/cern.ch/user/t/telenz/public/sync2016/Htt_et_VBF_SM_sync_v4.root
 
-# Standard Model selection
+# Standard Model selection (with pt_elec>26)
 # Baseline selection applied from : https://twiki.cern.ch/twiki/bin/view/CMS/HiggsToTauTauWorking2016#Spring_16
 # Re-HLT sample (no trigger requirement)
 # Pile-up files privately produced (https://github.com/DesyTau/DesyTauAnalysesRun2_25ns/tree/master/NTupleMaker/data/PileUpDistrib/pileUp_data_Cert_271036-276811_13TeV_PromptReco_Collisions16_xsec69p2mb.root and https://github.com/DesyTau/DesyTauAnalysesRun2_25ns/tree/master/NTupleMaker/data/PileUpDistrib/MC_Spring16_PU.root) 
@@ -9,4 +9,4 @@
 # no SFFit variables included
 # b-jet scaling applied
 # new JetId recommendation from https://twiki.cern.ch/twiki/bin/viewauth/CMS/JetID#Recommendations_for_13_TeV_data
-
+# MET recoil corrections (rescaling method) applied (update: 16/10/29)

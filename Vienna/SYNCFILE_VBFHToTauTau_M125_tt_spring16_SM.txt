@@ -1,0 +1,20 @@
+/afs/cern.ch/user/m/mspanrin/public/sync2016/SYNCFILE_VBFHToTauTau_M125_tt_spring16_v3_SM.root
+
+1024:
+Using JetID from:	https://twiki.cern.ch/twiki/bin/view/CMS/JetID#Recommendations_for_13_TeV_data
+Using RecoilCorrection from: https://github.com/CMS-HTT/RecoilCorrections/blob/master/data/MvaMET_MG_2016BCD_RooT_5.2.root
+
+1013:
+Selection as described on SMTauTau2016 Twiki
+Using CSVv2_ichep from https://twiki.cern.ch/twiki/bin/viewauth/CMS/BtagRecommendation80X
+trigger efficiencies from Andrew's workspace v5
+id/iso scale factors from Andrew's workspace v5
+Using puweights from Data_Pileup_2016_271036-276811_13TeVSpring16_PromptReco_69p2mbMinBiasXS.root
+
+0926:
+trigger efficiencies from Andrew's workspace v3
+id/iso scale factors from Andrew's workspace v3
+Using puweights from Data_Pileup_2016_271036-276811_13TeVSpring16_PromptReco_69p2mbMinBiasXS.root
+
+
+

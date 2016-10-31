@@ -1,0 +1,14 @@
+/afs/cern.ch/user/m/mspanrin/public/sync2016/SYNCFILE_SUSYGluGluToHToTauTau_M-160_mt_spring16_v5_BASE.root
+
+1013:
+Selection as described on HiggsToTauTauWorking2016 Twiki
+Using CSVv2_ichep from https://twiki.cern.ch/twiki/bin/viewauth/CMS/BtagRecommendation80X
+trigger efficiencies from Andrew's workspace v5
+id/iso scale factors from Andrew's workspace v5
+Using puweights from Data_Pileup_2016_271036-276811_13TeVSpring16_PromptReco_69p2mbMinBiasXS.root
+
+0926:
+Using Baseline from Twiki
+trigger efficiencies from Andrew's workspace v3
+id/iso scale factors from Andrew's workspace v3
+Using puweights from Data_Pileup_2016_271036-276811_13TeVSpring16_PromptReco_69p2mbMinBiasXS.root

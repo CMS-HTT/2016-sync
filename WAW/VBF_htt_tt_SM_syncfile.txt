@@ -1,0 +1,7 @@
+/afs/cern.ch/user/m/mbluj/public/synch2016/WAW_VBF_syncTree_tt_SM_v1.root
+
+[27.10.2016]
+First version of synch file based on the VBF sample for the tt channel.
+* MVAMET with recoil corrections
+* Some differences seen for MET and MET related variables wrt CERN, 
+  investigation ongoing

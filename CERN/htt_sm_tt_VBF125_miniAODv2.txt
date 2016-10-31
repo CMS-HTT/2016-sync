@@ -1,0 +1,5 @@
+/afs/cern.ch/user/s/steggema/public/Sync2016/tt_sm_vbf_v1.root
+
+# Using b-tag weights and recoil corrections
+# Re-HLT sample (but not requiring trigger)
+
