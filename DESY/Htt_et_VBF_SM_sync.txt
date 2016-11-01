@@ -1,4 +1,4 @@
-/afs/cern.ch/user/t/telenz/public/sync2016/Htt_et_VBF_SM_sync_v4.root
+/afs/cern.ch/user/t/telenz/public/sync2016/Htt_et_VBF_SM_sync_v5.root
 
 # Standard Model selection (with pt_elec>26)
 # Baseline selection applied from : https://twiki.cern.ch/twiki/bin/view/CMS/HiggsToTauTauWorking2016#Spring_16
