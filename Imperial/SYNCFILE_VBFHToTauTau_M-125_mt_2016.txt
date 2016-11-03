@@ -1,4 +1,8 @@
-/afs/cern.ch/user/d/dwinterb/public/2016-sync/Oct20/SYNCFILE_VBFHToTauTau_M-125_mt_2016.root
+/afs/cern.ch/user/d/dwinterb/public/2016-sync/Nov02/SYNCFILE_VBFHToTauTau_M-125_mt_2016.root
+
+[02/11/2016]
+Changed to using pfmet to calulate met related variables: Higgs pt, mt_1 etc.
+Applying same iso weights for anti-isolated leptons and isolated leptons
 
 [20/10/2016]
 Adding b-tag reweighting and MET recoil corrections
