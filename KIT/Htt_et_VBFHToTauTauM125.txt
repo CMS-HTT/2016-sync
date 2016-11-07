@@ -1,4 +1,7 @@
-/afs/cern.ch/user/a/anehrkor/public/sync-2016/Htt_et_VBFHToTauTauM125_v3.root
+/afs/cern.ch/user/a/anehrkor/public/sync-2016/Htt_et_VBFHToTauTauM125_v5.root
+
+[07.11.2016]
+Bug fix: use recoil corrected PF MET for computation of quantities like mt
 
 [03.11.2016]
 Use mean resolution instead of quantile mapping for recoil corrections

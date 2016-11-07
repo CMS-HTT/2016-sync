@@ -1,4 +1,7 @@
-/afs/cern.ch/user/a/anehrkor/public/sync-2016/Htt_em_VBFHToTauTauM125_v4.root
+/afs/cern.ch/user/a/anehrkor/public/sync-2016/Htt_em_VBFHToTauTauM125_v5.root
+
+[07.11.2016]
+Bug fix: use recoil corrected PF MET for computation of quantities like mt
 
 [04.11.2016]
 Fix for ditau pair selection logic
