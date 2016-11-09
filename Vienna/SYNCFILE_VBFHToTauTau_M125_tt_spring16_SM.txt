@@ -1,4 +1,10 @@
-/afs/cern.ch/user/m/mspanrin/public/sync2016/SYNCFILE_VBFHToTauTau_M125_tt_spring16_v3_SM.root
+/afs/cern.ch/user/m/mspanrin/public/sync2016/SYNCFILE_VBFHToTauTau_M125_tt_spring16_v4_SM.root
+
+1109:
+Using MVAMET RecoilCorrection from: https://github.com/CMS-HTT/RecoilCorrections/blob/master/data/MvaMET_MG_2016BCD.root
+Using PFMET RecoilCorrection from: https://github.com/CMS-HTT/RecoilCorrections/blob/master/data/TypeIPFMET_2016BCD.root
+MET from slimmedMET collection
+
 
 1024:
 Using JetID from:	https://twiki.cern.ch/twiki/bin/view/CMS/JetID#Recommendations_for_13_TeV_data
