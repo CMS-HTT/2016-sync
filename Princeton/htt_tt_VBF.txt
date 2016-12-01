@@ -1,3 +1,3 @@
 Re-HLT VBF Sample:
-/afs/cern.ch/user/o/ojalvo/public/syncntuple/SM-HTT-VBF125_tt_20161031.root
+/afs/cern.ch/user/o/ojalvo/public/syncntuple/SM-HTT-VBF125_tt_20161128.root
 
