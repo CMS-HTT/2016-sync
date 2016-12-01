@@ -1,4 +1,8 @@
-/afs/cern.ch/user/t/telenz/public/sync2016/Htt_mt_VBF_SM_sync_v4.root
+/afs/cern.ch/user/t/telenz/public/sync2016/Htt_mt_VBF_SM_sync_v9.root
+
+#[11/21] SV Fit variables included (v9)
+#[11/15] Updated loose pf jet id for njets calculation used for recoil corrections (v8)
+#[11/14] met variables calculated with recorrected met
 
 # Standard Model selection (with pt_mu>23 and abs(eta_mu)<2.4)
 # Baseline selection applied from : https://twiki.cern.ch/twiki/bin/view/CMS/HiggsToTauTauWorking2016#Spring_16

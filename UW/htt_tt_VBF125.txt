@@ -1,6 +1,13 @@
 
+Current Sync Ntuple (CMSSW_8_0_20): /afs/cern.ch/work/t/truggles/public/HTT-2016-Sync/SM-HTT-VBF125_tt_20161031.root
+Previous Sync Ntuple (CMSSW_8_0_14): /afs/cern.ch/work/t/truggles/public/HTT-2016-Sync/SM-HTT-VBF125_tt_20160928.root
 
-Current Sync Ntuple: /afs/cern.ch/work/t/truggles/public/HTT-2016-Sync/SM-HTT-VBF125_tt_20160928.root
+
+Oct 31, Halloween, 2016:
+ - CMSSW_8_0_20 sample
+ - shifts in NJets varialbes seen, MET, MVA MET Cov
+ - this is PRE Recoil correction and PRE svFit
+
 
 
 Sept 28, 2016:

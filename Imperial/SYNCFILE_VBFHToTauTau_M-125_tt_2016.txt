@@ -1,4 +1,14 @@
-/afs/cern.ch/user/d/dwinterb/public/2016-sync/Oct20/SYNCFILE_VBFHToTauTau_M-125_tt_2016.root
+/afs/cern.ch/user/d/dwinterb/public/2016-sync/Nov09/SYNCFILE_VBFHToTauTau_M-125_tt_2016.root
+
+[09/11/2016]
+pfMet produced using slimmedMETs collection
+
+[07/11/2016]
+Applying Recoil corrections to pfmet. Using electon eta instead of sc eta to calculate idiso and trigger weights. Applying same trigger weights for anti-isolated leptons as isolated leptons.
+
+[02/11/2016]
+Changed to using pfmet to calulate met related variables: Higgs pt, mt_1 etc.
+Applying same iso weights for anti-isolated leptons and isolated leptons
 
 [20/10/2016]
 Adding b-tag reweighting and MET recoil corrections

@@ -1,5 +1,9 @@
-Synch ntuple in the emu channel. SM qqH(160) sample.
+Synch ntuple in the emu channel. SM qqH(125) sample.
 /afs/cern.ch/user/r/rasp/public/Sync-2016/VBFHToTauTau_M125_13TeV_powheg_em.root
+
+7/11/2016
+- SVFit mass is computed only for events with pzeta>-35 && iso_1 < 0.5 && iso_2 < 0.5
+- fixed problem with loose PF jet Id
 
 3/10/2016
 - lepton Id and trigger efficiency scale factors are applied
