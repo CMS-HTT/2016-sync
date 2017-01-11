@@ -1,5 +1,6 @@
-/afs/cern.ch/user/t/telenz/public/sync2016/Htt_mt_VBF_SM_sync_v9.root
+/afs/cern.ch/user/t/telenz/public/sync2016/Htt_mt_VBF_SM_sync_v10.root
 
+#[01/11] Correction of met covariance matrix (v10)
 #[11/21] SV Fit variables included (v9)
 #[11/15] Updated loose pf jet id for njets calculation used for recoil corrections (v8)
 #[11/14] met variables calculated with recorrected met
