@@ -1,0 +1,14 @@
+
+
+
+
+/afs/cern.ch/work/t/truggles/public/HTT-2016-Sync/SM-HTT-VBF125_tt_20170120.root
+
+30 Jan 2017 : 1st Moriond17 sync set
+ - All default correction are from 2016 ICHEP values
+ - No additional Jet Correction beyond default
+ - No svFit
+ - Using ICHEP trigger weights
+
+
+
