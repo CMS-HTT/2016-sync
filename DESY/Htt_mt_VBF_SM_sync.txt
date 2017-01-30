@@ -1,0 +1,4 @@
+/afs/cern.ch/user/t/telenz/public/sync2016/Moriond17/Htt_mt_VBF_SM_sync_v1.root
+
+# Summer16 JECs applied
+# no SVFit variables included
