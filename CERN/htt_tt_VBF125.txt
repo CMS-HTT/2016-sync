@@ -1,0 +1,3 @@
+/afs/cern.ch/user/s/steggema/public/SyncMoriond2017/tt_vbf_v1.root
+
+# Trigger information saved; no trigger scale factors; old b-tag scale factors
