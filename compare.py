@@ -24,10 +24,12 @@ styles = [2, 1, 3, 4, 5]
 def findTree(f):
     for key in f.GetListOfKeys():
         tree = f.Get(key.GetName())
-        if isinstance(tree, ROOT.TTree):
+        if isinstance(tree, ROOT.TTree) and tree.GetListOfBranches().GetSize() > 10:
             return tree
         elif isinstance(tree, ROOT.TDirectory):
-            return findTree(tree)
+            tree = findTree(tree)
+            if tree:
+                return tree
     print 'Failed to find a TTree in file', f
     return None
 
