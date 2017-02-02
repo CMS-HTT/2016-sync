@@ -1,4 +1,9 @@
-/afs/cern.ch/user/m/mspanrin/public/sync2016/SYNCFILE_VBFHToTauTau_M125_mt_spring16_v4_SM.root
+/afs/cern.ch/user/m/mspanrin/public/sync2016/SYNCFILE_VBFHToTauTau_M125_mt_spring16_v5_SM.root
+
+1222:
+Use re-corrected pfmet
+Sample without recorrection:
+/afs/cern.ch/user/m/mspanrin/public/sync2016/SYNCFILE_VBFHToTauTau_M125_mt_spring16_v5_SM_woMetCorr.root
 
 1109:
 Using MVAMET RecoilCorrection from: https://github.com/CMS-HTT/RecoilCorrections/blob/master/data/MvaMET_MG_2016BCD.root
