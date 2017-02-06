@@ -1,0 +1,9 @@
+/afs/cern.ch/user/m/mspanrin/public/sync2016/SYNCFILE_VBFHToTauTau_M125_tt_summer16_v1_woHLT.root
+
+0206:
+- New Summer16 V3 JEC corrections
+- no RecoilCorrections
+- uncorrected PFMET
+- Electron Spring16 GP MVA Id in ThirdLepVeto
+- Old ichep trigger SFs
+- no HLT applied

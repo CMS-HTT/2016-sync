@@ -1,0 +1,12 @@
+/afs/cern.ch/user/m/mspanrin/public/sync2016/SYNCFILE_VBFHToTauTau_M125_et_summer16_v1_woHLT.root
+
+0206:
+- New Summer16 V3 JEC corrections
+- no RecoilCorrections
+- uncorrected PFMET
+- new 2016BtoH Electron_Ele25_eta2p1_WPTight trigger efficiencies
+- new 2016BtoH IdIso SFs
+- Electron Spring16 loose MVA Id in ThirdLepVeto
+- Electron Spring16 tight MVA Id for SignalElectrons
+- Spring 16 cut based veto in dilepton veto
+- no HLT applied

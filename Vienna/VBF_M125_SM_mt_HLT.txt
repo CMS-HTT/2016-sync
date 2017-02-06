@@ -1,0 +1,12 @@
+/afs/cern.ch/user/m/mspanrin/public/sync2016/SYNCFILE_VBFHToTauTau_M125_mt_summer16_v1_HLT.root
+
+0206:
+- New Summer16 V3 JEC corrections
+- Medium Muon ID
+- new 2016BtoH IsoMu24_OR_TkIsoMu24 Trigger SFs
+- new 2016BtoH IdIso SFs
+- Electron Spring16 GP MVA Id in ThirdLepVeto
+- no RecoilCorrections
+- uncorrected PFMET
+- HLT applied  IsoMu24_OR_TkIsoMu24
+- mu pt > 25
