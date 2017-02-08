@@ -7,3 +7,4 @@
 # old (Spring15) cut-based electron ID
 # muon id-iso, trigger weights from https://github.com/CMS-HTT/LeptonEfficiencies/tree/master/Muon/Run2016BtoH
 # No trigger required
+# CSV cut of 0.8484 (see https://twiki.cern.ch/twiki/bin/viewauth/CMS/BtagRecommendation80XReReco) 
