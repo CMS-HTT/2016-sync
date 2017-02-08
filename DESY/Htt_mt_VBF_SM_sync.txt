@@ -1,4 +1,9 @@
-/afs/cern.ch/user/t/telenz/public/sync2016/Moriond17/Htt_mt_VBF_SM_sync_v1.root
+/afs/cern.ch/user/t/telenz/public/sync2016/Moriond17/Htt_mt_VBF_SM_sync_v2.root
 
 # Summer16 JECs applied
 # no SVFit variables included
+# no recoil corrections applied
+# medium muon ID applied
+# old (Spring15) cut-based electron ID
+# muon id-iso, trigger weights from https://github.com/CMS-HTT/LeptonEfficiencies/tree/master/Muon/Run2016BtoH
+# No trigger required
