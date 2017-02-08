@@ -1,13 +1,14 @@
+newest: /afs/cern.ch/home/l/ldodd/public/2016-sync/htt_mt_laura_02082017.root
+08 Feb 2017 :
+ - Removed BadMuonFilter, gained back ~500 events 
 
 
-
-newest: /afs/cern.ch/home/l/ldodd/public/2016-sync/htt_mt_laura_02072017.root
 07 Feb 2017 :
  - New Summer16 V4 JEC corrections
  - Latest Id/iso weights  
  - Standard Medium Muon Id
  - No additional Jet Correction beyond default
  - No svFit
-
+ - no recoil corrections applied
 
 
