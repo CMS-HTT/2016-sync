@@ -1,3 +1,0 @@
-/afs/cern.ch/user/s/steggema/public/SyncMoriond2017/tt_susyggh1000_v1.root
-
-# 01 Feb, v1
