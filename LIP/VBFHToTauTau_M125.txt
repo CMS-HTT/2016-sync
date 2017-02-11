@@ -1,4 +1,4 @@
-1) to get the file, do that for now as tehre are trouble to access my public area:
+1) to get the file, do that for now as there are trouble to access my public area:
 wget http://calpas.web.cern.ch/calpas/moriond17-sync/calpas_vbf_mt.root
 wget http://calpas.web.cern.ch/calpas/moriond17-sync/calpas_vbf_et.root
 
