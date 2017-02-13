@@ -1,12 +1,21 @@
 
 
 
-newest: /afs/cern.ch/work/t/truggles/public/HTT-2016-Sync/SM-HTT-VBF125_tt_20170206.root
+newest: /afs/cern.ch/work/t/truggles/public/HTT-2016-Sync/SM-HTT-VBF125_tt_20170213.root
+13 Feb 2017 :
+ - Added svFit variables
+ - Using new recoil corrections
+ - Recoil corrected met is saved as metcor, metphicor
+ - Sample is treated as Boson for recoil corrections
+
+
+
+/afs/cern.ch/work/t/truggles/public/HTT-2016-Sync/SM-HTT-VBF125_tt_20170206.root
 06 Feb 2017 :
  - New Summer16 V3 JEC corrections
 
 
-newest: /afs/cern.ch/work/t/truggles/public/HTT-2016-Sync/SM-HTT-VBF125_tt_20170131.root
+/afs/cern.ch/work/t/truggles/public/HTT-2016-Sync/SM-HTT-VBF125_tt_20170131.root
 31 Jan 2017 :
  - Added new trigger weights
   - Applying data/MC SF for trigweight_1 & trigweight_2
