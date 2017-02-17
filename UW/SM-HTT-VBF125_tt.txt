@@ -1,7 +1,20 @@
 
 
 
-newest: /afs/cern.ch/work/t/truggles/public/HTT-2016-Sync/SM-HTT-VBF125_tt_20170213.root
+newest: /afs/cern.ch/work/t/truggles/public/HTT-2016-Sync/SM-HTT-VBF125_tt_20170217.root
+17 Feb 2017 :
+ - Includes Tau Energy Corrections
+ - TES shifts are 3%
+ - look for variables:
+  - ptCor_1 for pt_1 with TEC
+  - pt_1_DM1_UP is ptCor_1 with DM1 taus shifted up 0.6%
+  - also added are m_visCor + m_visCor_DMX_UP/DOWN the DM shifted TES
+  - Higgs_PtCor & Higgs_PtCor_DMX_UP/DOWN
+ - additionally there are svFit variables using the same naming
+  - m_sv_DMX_UP/DOWN
+  - pt_sv_DMX_UP/DOWN 
+
+/afs/cern.ch/work/t/truggles/public/HTT-2016-Sync/SM-HTT-VBF125_tt_20170213.root
 13 Feb 2017 :
  - Added svFit variables
  - Using new recoil corrections
