@@ -2,11 +2,10 @@ newest:
 /afs/cern.ch/user/y/ytakahas/public/forHTT/TauTauAnalysis.VBFHToTauTau_M125_13TeV_powheg_pythia8_tree_emu.root
 
 
-20 Feb 2017 :
- - First trial
+26 Feb 2017 :
  - New Summer16 V4 JEC corrections
- - No latest Id/iso weights  
+ - latest Id/iso weights  
  - No additional Jet Correction beyond default
- - No svFit
- - No Trigger matching applied yet
+ - Trigger matching applied
+ - latest MET recoil correction
 
