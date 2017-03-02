@@ -1,6 +1,13 @@
-/afs/cern.ch/user/d/dwinterb/public/MSSMSync17/Jan27/SYNCFILE_SUSYGluGluToBBHToTauTau_M-1000_2016_tt_0.root
+/afs/cern.ch/user/d/dwinterb/public/MSSMSync17/Mar02/SYNCFILE_SUSYGluGluToBBHToTauTau_M-1000_2016_tt_0.root
 
 Sync sample: /SUSYGluGluToBBHToTauTau_M-1000_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6-v1/MINIAODSIM
+
+[02/03/17]
+Updates since last sync ntuple:
+-MET recoil corrections using quantile method with input file: TypeI-PFMet_Run2016BtoH.root
+-JET energy corrections and Type1 PF MET corrections - default associated with MC global tag 80X_mcRun2_asymptotic_2016_TrancheIV_v8
+-B-tag efficincies file: tagging_efficiencies_Moriond2017.root
+-All other scale factors use correction file: htt_scalefactors_v16_3.root
 
 [10/02/17]
 -baseline selection detailed here:
