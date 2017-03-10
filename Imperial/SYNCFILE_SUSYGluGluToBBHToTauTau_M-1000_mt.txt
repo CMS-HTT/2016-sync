@@ -1,6 +1,9 @@
-/afs/cern.ch/user/d/dwinterb/public/MSSMSync17/Mar02/SYNCFILE_SUSYGluGluToBBHToTauTau_M-1000_2016_mt_0.root
+/afs/cern.ch/user/d/dwinterb/public/MSSMSync17/Mar10/SYNCFILE_SUSYGluGluToBBHToTauTau_M-1000_2016_mt_0.root
 
 Sync sample: /SUSYGluGluToBBHToTauTau_M-1000_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6-v1/MINIAODSIM
+
+[10/03/17]
+Corrections using htt_scalefactors_v16_4.root
 
 [02/03/17]
 Updates since last sync ntuple:
