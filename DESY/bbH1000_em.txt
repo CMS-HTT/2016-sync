@@ -1,0 +1,15 @@
+em synch ntuple 
+/afs/cern.ch/user/r/rasp/public/Sync-2016/SUSYGluGluToBBHToTauTau_M-1000_13TeV-pythia8.root 
+
+2017/03/10
+# Summer16_23Sep2016V3_MC JEC applied
+# PF MET is recomputed with JEC applied
+# latest recoil corrections from https://github.com/CMS-HTT/RecoilCorrections/blob/master/data/TypeI-PFMet_Run2016BtoH.root
+# medium muon ID applied
+# new (Spring16) mva electron ID : https://twiki.cern.ch/twiki/bin/view/CMS/MultivariateElectronIdentificationRun2
+# muon id-iso, trigger weights from https://github.com/CMS-HTT/LeptonEfficiencies/tree/master/Muon/Run2016BtoH
+# electron id-iso, trigger weights from https://github.com/CMS-HTT/LeptonEfficiencies/tree/master/Electron/Run2016BtoH
+# Triggers used : HLT_Mu8_TrkIsoVVL_Ele23_CaloIdL_TrackIdL_IsoVL_v OR HLT_Mu23_TrkIsoVVL_Ele12_CaloIdL_TrackIdL_IsoVL_v
+# NB : trigger matching is applied
+# CSV cut of 0.8484 (see https://twiki.cern.ch/twiki/bin/viewauth/CMS/BtagRecommendation80XReReco) 
+# BTag SF from https://twiki.cern.ch/twiki/bin/viewauth/CMS/BtagRecommendation80XReReco are applied
