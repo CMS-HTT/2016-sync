@@ -1,0 +1,11 @@
+sync ntuple: /afs/cern.ch/work/g/gtouquet/public/HTT_MSSM_Sync/HiggsSUSYBB1000_tt.root
+
+Sync sample: /SUSYGluGluToBBHToTauTau_M-1000_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6-v1/MINIAODSIM
+
+[15/03/17]
+-baseline selection from:
+http://twiki.cern.ch/twiki/bin/viewauth/CMS/MSSMAHTauTauFull2016
+-Applying MET filters as described in TWiki
+-using Global Tag : 80X_mcRun2_asymptotic_2016_TrancheIV_v8
+-JEC and Type1 PF MET corrections - default associated with MC global tag
+-Recoil corrections with TypeI-PFMet_Run2016BtoH.root
