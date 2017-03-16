@@ -1,0 +1,13 @@
+Sync ntuple: /afs/cern.ch/user/m/mbluj/public/synch2016/MSSM/WAW_SYNCFILE_SUSYGluGluToBBHToTauTau_M-1000_2016_mt_0.root
+
+Sync sample: /SUSYGluGluToBBHToTauTau_M-1000_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6-v1/MINIAODSIM
+
+[15/03/17]
+Baseline selection from: 
+http://twiki.cern.ch/twiki/bin/viewauth/CMS/MSSMAHTauTauFull2016
+* Global Tag : 80X_mcRun2_asymptotic_2016_TrancheIV_v8
+* JEC and Type1 PF MET corrections: as in MC
+* Recoil corrections: TypeI-PFMet_Run2016BtoH.root
+* MET filters not applied yet
+* Weights not filled yet
+
