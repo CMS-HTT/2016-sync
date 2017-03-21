@@ -1,6 +1,14 @@
-Sync ntuple: /afs/cern.ch/user/m/mbluj/public/synch2016/MSSM/WAW_SYNCFILE_SUSYGluGluToBBHToTauTau_M-1000_2016_mt_1.root
+Sync ntuple: /afs/cern.ch/user/m/mbluj/public/synch2016/MSSM/WAW_SYNCFILE_SUSYGluGluToBBHToTauTau_M-1000_2016_mt_2.root
 
 Sync sample: /SUSYGluGluToBBHToTauTau_M-1000_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6-v1/MINIAODSIM
+
+[21/03/17]
+* Fix feature in mu+tau pair ordering
+* Update SFs: use items binned m_iso as follows 
+  * Muon trigger: m_trgOR4_binned_ratio
+  * Muon Id: m_id_ratio
+  * Muon Iso: m_iso_binned_ratio
+* Correct bug in definition of mt_tot
 
 [17/03/17]
 * MET filters and bad(Muon,ChargedCandidate) filters applied
