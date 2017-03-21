@@ -1,0 +1,23 @@
+Sync ntuple: /afs/cern.ch/user/m/mbluj/public/synch2016/MSSM/WAW_SYNCFILE_SUSYGluGluToBBHToTauTau_M-1000_2016_tt_2.root
+
+Sync sample: /SUSYGluGluToBBHToTauTau_M-1000_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6-v1/MINIAODSIM
+
+[21/03/17]
+* Correct bug in definition of mt_tot
+* Small corrections in weights definitions
+
+[17/03/17]
+* MET filters and bad(Muon,ChargedCandidate) filters applied
+* SFs from workspace htt_scalefactors_v16_3.root:  
+  * Tau trigger: t_genuine(fake)_TightIso_tt_ratio stored in trigweight_{1,2} for gen_match_{1,2}==5 (!=5)
+* Tau-ID SF of 0.95 (1.0) for gen_match_{1,2}==5 (!=5) stored in idiso_weight_{1,2}
+
+[15/03/17]
+Baseline selection from: 
+http://twiki.cern.ch/twiki/bin/viewauth/CMS/MSSMAHTauTauFull2016
+* Global Tag : 80X_mcRun2_asymptotic_2016_TrancheIV_v8
+* JEC and Type1 PF MET corrections: reaplied from used Global Tag
+* Recoil corrections: TypeI-PFMet_Run2016BtoH.root
+* MET filters not applied yet
+* Weights not filled yet
+
