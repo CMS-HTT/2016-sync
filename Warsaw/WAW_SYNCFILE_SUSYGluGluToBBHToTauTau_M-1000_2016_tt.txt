@@ -1,6 +1,9 @@
-Sync ntuple: /afs/cern.ch/user/m/mbluj/public/synch2016/MSSM/WAW_SYNCFILE_SUSYGluGluToBBHToTauTau_M-1000_2016_tt_2.root
+Sync ntuple: /afs/cern.ch/user/m/mbluj/public/synch2016/MSSM/WAW_SYNCFILE_SUSYGluGluToBBHToTauTau_M-1000_2016_tt_3.root
 
 Sync sample: /SUSYGluGluToBBHToTauTau_M-1000_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6-v1/MINIAODSIM
+
+[27/03/17]
+* Use b-tagging SFs from CSVv2_Moriond17_B_H.csv
 
 [21/03/17]
 * Correct bug in definition of mt_tot
