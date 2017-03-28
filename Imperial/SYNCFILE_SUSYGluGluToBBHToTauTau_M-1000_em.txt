@@ -1,9 +1,12 @@
-/afs/cern.ch/work/a/adewit/public/syncNtuples/sync-240317/SYNCFILE_SUSYGluGluToBBHToTauTau_M-1000_em_summer16.root
+/afs/cern.ch/work/a/adewit/public/syncNtuples/sync-280317/SYNCFILE_SUSYGluGluToBBHToTauTau_M-1000_em_summer16.root
 
 
-(with triggers already applied: /afs/cern.ch/work/a/adewit/public/syncNtuples/sync-240317/SYNCFILE_SUSYGluGluToBBHToTauTau_M-1000_em_summer16_filteredtrg.root
+(with triggers already applied: /afs/cern.ch/work/a/adewit/public/syncNtuples/sync-280317/SYNCFILE_SUSYGluGluToBBHToTauTau_M-1000_em_summer16_filteredtrg.root
 
 Sync sample: /SUSYGluGluToBBHToTauTau_M-1000_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6-v1/MINIAODSIM
+
+[28/03/17]
+Fixing bug that used the wrong electron eta to apply trigger weights in some cases
 
 [24/03/17]
 First committed version including selection as in:
