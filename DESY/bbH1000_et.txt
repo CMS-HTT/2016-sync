@@ -1,0 +1,1 @@
+/afs/cern.ch/user/v/vbotta/public/HTT-synch/MSSMFull2016/SUSYGluGluToBBHToTauTau_M-1000_TuneCUETP8M1_13TeV-pythia8_0_et_Sync.root
