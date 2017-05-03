@@ -1,1 +1,14 @@
+/afs/cern.ch/user/v/vbotta/public/HTT-synch/MSSMFull2016/SUSYGluGluToBBHToTauTau_M-1000_TuneCUETP8M1_13TeV-pythia8_0_et_Sync_noTauES.root
+/afs/cern.ch/user/v/vbotta/public/HTT-synch/MSSMFull2016/SUSYGluGluToBBHToTauTau_M-1000_TuneCUETP8M1_13TeV-pythia8_0_et_Sync_withTauES.root
+
+[03/05]
+- lepton scale factors from KIT
+- "noTauES" version without any tau energy scale correction, nor for genuine nor for lepton->tau fakes.
+- "withTauES" version:
+  - applying genuine tau ES correction from Alex 24.04 tau ID meeting, ie. -0.5%, 1.1%, 0.6%. 
+  - applying ele->tau ES correction from Adinda, ie. 2.4%, 7.6%, 0%
+
+
+[07/04]
+First round
 /afs/cern.ch/user/v/vbotta/public/HTT-synch/MSSMFull2016/SUSYGluGluToBBHToTauTau_M-1000_TuneCUETP8M1_13TeV-pythia8_0_et_Sync.root
