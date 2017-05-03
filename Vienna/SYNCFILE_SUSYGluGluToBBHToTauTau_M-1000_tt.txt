@@ -1,6 +1,12 @@
-/afs/cern.ch/user/m/mspanrin/public/sync2017/MSSM/SYNCFILE_SUSYGluGluToBBHToTauTau_M-1000_tt_v3.root
+/afs/cern.ch/user/m/mspanrin/public/sync2017/MSSM/SYNCFILE_SUSYGluGluToBBHToTauTau_M-1000_tt_v4.root
 
 Sync sample: /SUSYGluGluToBBHToTauTau_M-1000_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6-v1/MINIAODSIM
+
+[03/05/17]
+Implemented badMuon Filters as stated on the twiki https://twiki.cern.ch/twiki/bin/view/CMS/MSSMAHTauTauFull2016#Bad_muon_filters
+Filters are not applied but stored as flags in the ntuples: Flag_badMuons and  Flag_duplicateMuons
+
+Recoil Correction using rescaling method.
 
 [10/03/17]
 fixd bug in metcov and genmatch
