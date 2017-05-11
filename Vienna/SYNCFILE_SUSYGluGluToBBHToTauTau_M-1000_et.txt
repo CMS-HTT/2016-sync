@@ -1,6 +1,10 @@
-/afs/cern.ch/user/m/mspanrin/public/sync2017/MSSM/SYNCFILE_SUSYGluGluToBBHToTauTau_M-1000_et_v4.root
+/afs/cern.ch/user/m/mspanrin/public/sync2017/MSSM/SYNCFILE_SUSYGluGluToBBHToTauTau_M-1000_et_v5.root
 
 Sync sample: /SUSYGluGluToBBHToTauTau_M-1000_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6-v1/MINIAODSIM
+
+[11/05/17]
+included tau ES and e->tau ES
+badMuon and duplicate Muon filters are now applied
 
 [03/05/17]
 Implemented badMuon Filters as stated on the twiki https://twiki.cern.ch/twiki/bin/view/CMS/MSSMAHTauTauFull2016#Bad_muon_filters
