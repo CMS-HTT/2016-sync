@@ -1,0 +1,11 @@
+/afs/cern.ch/user/d/dwinterb/public/MSSMSync17/May16/SYNCFILE_SUSYGluGluToBBHToTauTau_M-1000_2016_zmm_0.root
+
+Sync sample: /SUSYGluGluToBBHToTauTau_M-1000_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6-v1/MINIAODSIM
+
+[16/05/16]
+B-tag SF using input file: CSVv2_Moriond17_B_H.csv
+Corrections using htt_scalefactors_v16_5.root
+-MET recoil corrections using quantile method with input file: TypeI-PFMet_Run2016BtoH.root
+-JET energy corrections and Type1 PF MET corrections - default associated with MC global tag 80X_mcRun2_asymptotic_2016_TrancheIV_v8
+-B-tag efficincies file: tagging_efficiencies_Moriond2017.root
+http://twiki.cern.ch/twiki/bin/viewauth/CMS/MSSMAHTauTauFull2016 for explicit instructions
