@@ -1,4 +1,16 @@
-sync ntuple: /afs/desy.de/user/a/aakhmets/public/sync_exercise_27_01_2017/output_SYNC_mt.root
+sync ntuple: /afs/desy.de/user/a/aakhmets/public/sync_exercise_22_05_2017/output_SYNC_mt.root
 sample: /SUSYGluGluToBBHToTauTau_M-1000_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6-v1/MINIAODSIM
 
 See https://twiki.cern.ch/twiki/bin/viewauth/CMS/MSSMAHTauTauFull2016 for explicit instructions
+
+[22/05/16]
+
+- pile-up: Data_Pileup_2016_271036-284044_13TeVMoriond17_23Sep2016ReReco_69p2mbMinBiasXS
+- met recoil corrections: on TypeI-PFMet_Run2016BtoH using mean resolution method
+- b-tagging: promotion-demotion method with efficiencies from tagging_efficiencies_Moriond2017.root and CSV file CSVv2Moriond17_2017_1_26_BtoH 
+- all MET-Filters, including bad & dublicate muons filters
+- trigger, isolation, identification and tracking efficiencies from htt_scalefactors_v16_5.root
+- JEC and Type1 PF MET corrections: default from global tag 80X_mcRun2_asymptotic_2016_TrancheIV_v8
+- tight hadronic SF is used for post-sync (0.95)
+- latest tau ES corrections applied per decay mode
+- latest e->tau fake ES corrections applied
