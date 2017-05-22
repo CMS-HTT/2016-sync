@@ -3,7 +3,7 @@ sample: /SUSYGluGluToBBHToTauTau_M-1000_TuneCUETP8M1_13TeV-pythia8/RunIISummer16
 
 See https://twiki.cern.ch/twiki/bin/viewauth/CMS/MSSMAHTauTauFull2016 for explicit instructions
 
-[22/05/16]
+[22/05/17]
 
 - pile-up: Data_Pileup_2016_271036-284044_13TeVMoriond17_23Sep2016ReReco_69p2mbMinBiasXS
 - met recoil corrections: on TypeI-PFMet_Run2016BtoH using mean resolution method
