@@ -1,0 +1,1 @@
+/afs/cern.ch/user/s/swozniew/public/SMsync/Apr13/VBFHToTauTauM125_RunIISummer16MiniAODv2_PUMoriond17_13TeV_MINIAOD_powheg-pythia8_et.root

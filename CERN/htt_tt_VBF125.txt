@@ -1,5 +1,0 @@
-/afs/cern.ch/user/s/steggema/public/SyncMoriond2017/tt_vbf_v2.root
-
-# 01 Feb, v2: Add trigger weights per instructions; update b-tag scale factors (but use old prompt rates); tau pair chosen by isolation, then sorted by pT as per sync default
-
-# 30 Jan, v1: Trigger information saved; no trigger scale factors; old b-tag scale factors
