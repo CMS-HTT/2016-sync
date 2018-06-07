@@ -1,9 +1,10 @@
-/afs/cern.ch/user/m/mspanrin/public/ML_on_SM_2016full/ntuple_sync/May/VBFHToTauTau_M125_powheg_MCSummer16_tt_0528.root
+/afs/cern.ch/user/m/mspanrin/public/ML_on_SM_2016full/ntuple_sync/June/VBFHToTauTau_M125_powheg_MCSummer16_tt_0607.root
 
-0528:
-- lead tau pt > 50
+0607:
+- lead tau pt > 40
 - sub  tau pt > 40
-- no MET and Muon filters applied (stored as flagFilter)
+- Muon filters applied
+- MET filters stored as flagMETFilter (True on pass)
 - no trigger applied ( stored as trg_doublemuon )
 - trigger and idiso SF from https://github.com/CMS-HTT/CorrectionsWorkspace/blob/master/htt_scalefactors_sm_moriond_v2.root
 - zPt weights from /afs/cern.ch/user/m/mspanrin/public/ML_on_SM_2016full/zpt_weights_2016_BtoH.root
@@ -11,16 +12,16 @@
 - recoil corrections applied from https://github.com/CMS-HTT/RecoilCorrections/blob/master/data/TypeI-PFMet_Run2016BtoH.root
 
 tau -> tau TES:
-	one_prong_0p0    -1.8%
-	one_prong_1p0     1.0%
-	three_prong_0p0   0.4%
+	one_prong_0p0    -0.5%
+	one_prong_1p0     1.1%
+	three_prong_0p0   0.6%
 
-mu -> tau TES
+mu -> tau ES
       one_prong_0p0    -0.2%
       one_prong_1p0     1.5%
       three_prong_0p0   0.0%
 
-ele -> tau TES
+ele -> tau ES
       one_prong_0p0     0.0%
       one_prong_1p0     9.5%
       three_prong_0p0   0.0%
