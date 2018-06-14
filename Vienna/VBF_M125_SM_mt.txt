@@ -1,4 +1,7 @@
-/afs/cern.ch/user/m/mspanrin/public/ML_on_SM_2016full/ntuple_sync/June/VBFHToTauTau_M125_powheg_MCSummer16_mt_0607.root
+/afs/cern.ch/user/m/mspanrin/public/ML_on_SM_2016full/ntuple_sync/June/VBFHToTauTau_M125_powheg_MCSummer16_mt_0611.root
+
+0611:
+- Fixed bug in X-trigger
 
 0607:
 - mu pt > 20
