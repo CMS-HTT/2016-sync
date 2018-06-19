@@ -1,1 +1,14 @@
 /afs/cern.ch/user/s/swozniew/public/SMsync/Apr13/VBFHToTauTauM125_RunIISummer16MiniAODv2_PUMoriond17_13TeV_MINIAOD_powheg-pythia8_tt.root
+
+0619
+- tau_pt > 20
+- Muon filters applied
+- MET filters stored as flagMETFilter (True on pass)
+- no trigger applied ( stored as trg_doubletau )
+- trigger and idiso SF from https://github.com/CMS-HTT/CorrectionsWorkspace/blob/master/htt_scalefactors_sm_moriond_v2.root
+- zPt weights from /afs/cern.ch/user/m/mspanrin/public/ML_on_SM_2016full/zpt_weights_2016_BtoH.root
+- top reweighting from run 1
+- recoil corrections applied from https://github.com/CMS-HTT/RecoilCorrections/blob/master/data/TypeI-PFMet_Run2016BtoH.root
+- TES updated
+
+/afs/cern.ch/user/s/swozniew/public/SMsync/Jun19/VBFHToTauTauM125_RunIISummer16MiniAODv2_PUMoriond17_13TeV_MINIAOD_powheg-pythia8_tt.root
