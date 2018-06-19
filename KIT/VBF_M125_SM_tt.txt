@@ -1,7 +1,7 @@
 /afs/cern.ch/user/s/swozniew/public/SMsync/Jun19/VBFHToTauTauM125_RunIISummer16MiniAODv2_PUMoriond17_13TeV_MINIAOD_powheg-pythia8_tt.root
 
 0619
-- tau_pt > 20
+- tau_pt > 40
 - Muon filters applied
 - MET filters stored as flagMETFilter (True on pass)
 - no trigger applied ( stored as trg_doubletau )
