@@ -1,1 +1,1 @@
-/afs/cern.ch/user/m/mmeyer/public/Synchronisation_2016/VBFHToTauTau_M125.root
+/afs/cern.ch/user/m/mmeyer/public/Synchronisation_2016/VBFHToTauTau_M125_v2.root
