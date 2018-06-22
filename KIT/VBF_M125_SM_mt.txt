@@ -1,3 +1,10 @@
+/afs/cern.ch/user/s/swozniew/public/SMsync/Jun22/VBFHToTauTauM125_RunIISummer16MiniAODv2_PUMoriond17_13TeV_MINIAOD_powheg-pythia8_mt.root
+
+0622
+
+- added pt>23 cut to trg_singlemuon flag
+- fixed trigger filtering of the mutau cross trigger
+
 /afs/cern.ch/user/s/swozniew/public/SMsync/Jun19/VBFHToTauTauM125_RunIISummer16MiniAODv2_PUMoriond17_13TeV_MINIAOD_powheg-pythia8_mt.root
 
 0619
